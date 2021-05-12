@@ -1,0 +1,5 @@
+1. Save results to report - Allure integration
+1b. Save logs to file
+2. Augumented driver
+3. Multibrowser
+4. Able to run on a different environment or host
