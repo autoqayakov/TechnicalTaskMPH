@@ -1,6 +1,7 @@
 package com.tech.gui;
 
 import cucumber.api.CucumberOptions;
+import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 @CucumberOptions(
         features = {
@@ -16,6 +17,5 @@ import cucumber.api.CucumberOptions;
         }
 )
 
-//todo - implement runner with TestNG, to run group of tests and Allure reporting also
-public class CucumberRunner {
+class CucumberRunner extends AbstractTestNGCucumberTests {
 }

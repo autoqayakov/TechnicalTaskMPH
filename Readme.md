@@ -1,3 +1,11 @@
+Instructions on how to run
+
+to run all tests "gradle test" 
+reports will be stored in "/build/reports" (not ideal report however, could be improved) 
+running in multiple browsers is possible by just modifying GuiBase class and change default browser in config (didnt find Augumented Driver project info)
+
+-------------------------------------------------------------------------------------
+
 Automation Hand-On Interview
 
 1. Go to the Internet Heroku App web site and take an initial quick peek. https://the-internet.herokuapp.com/
